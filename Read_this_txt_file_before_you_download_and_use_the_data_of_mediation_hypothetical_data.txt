@@ -1,0 +1,1 @@
+This data (mediation_hypothetical_data.csv, https://github.com/TidyPython/Mediation_analysis/blob/main/mediation_hypothetical_data.csv) is generated via R programming (i.e., not real data). Please do not interpret the findings from a theoretical perspective. Please do not use it outside of this tutorial. 
