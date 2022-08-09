@@ -1,4 +1,5 @@
 # Method 2 for mediation analysis in R
+# Mediation Analysis in R from Scratch 
 
 # read data
 Mediation_data <- 
@@ -7,12 +8,10 @@ Mediation_data <-
 # show the head of the data
 head(Mediation_data)
 
-# Mediation Analysis in R from Scratch 
-
 library(boot)
 set.seed(123)
 
-
+# key function for indirect effect
 Mediation_function<-function(data_used,i)
 {
   # Sample a data 
