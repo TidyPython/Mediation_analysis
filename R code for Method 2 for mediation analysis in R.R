@@ -1,5 +1,6 @@
 # Method 2 for mediation analysis in R
 # Mediation Analysis in R from Scratch 
+# Youtube video: https://youtu.be/MIIF-ICF52Y
 
 # read data
 Mediation_data <- 
